@@ -276,11 +276,11 @@ BI-дашборд для анализа продаж маркетплейса. �
 
 ---
 
-### [Superset. Mobile app ad companing](./Datalens:Superset/Superset.%20Mobile%20app%20ad%20companING)
+### [Superset. Mobile app ad companing](./Datalens%3ASuperset/Superset.%20Mobile%20app%20ad%20companing)
 
 Дашборд для анализа рекламной кампании мобильного приложения. Проект позволяет отслеживать эффективность каналов привлечения, рекламные расходы, конверсии и пользовательские метрики.
 
-**Стэк:** Apache Superset, SQL
+**Стэк:** Apache Superset, SQL, Python
 
 **Сфера деятельности:** мобильные приложения, digital marketing, интернет-сервисы.
 
