@@ -204,7 +204,7 @@ BI-дашборд для анализа сервиса доставки еды. 
 
 ---
 
-### [Datalens. LifeLine sales analytics](./Datalens:Superset/Datalens.%20LifeLine%20sales%20analytics) 
+### [Datalens. LifeLine sales analytics] (./Datalens%3ASuperset/Datalens.%20LifeLine%20sales%20analitycs) 
 
 Аналитический дашборд для компании LifeLine. Проект направлен на анализ продаж, динамики выручки, регионов, продуктов, поставщиков и ключевых бизнес-показателей.
 
