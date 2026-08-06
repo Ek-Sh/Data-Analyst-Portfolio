@@ -168,7 +168,8 @@
 
 ---
 
-### [Datalens. Dota2 analytics](./Datalens:Superset/Datalens.%20Dota2%20analytics)
+### [Datalens. Dota2 analytics](./Datalens%3ASuperset/Datalens.%20Dota2%20analitycs)
+
 
 BI-проект по анализу данных Dota 2. Дашборд позволяет исследовать игровые показатели, сравнивать героев, команды или матчи, а также выявлять закономерности в игровых данных.
 
