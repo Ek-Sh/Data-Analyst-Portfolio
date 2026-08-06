@@ -192,7 +192,7 @@ BI-проект по анализу данных Dota 2. Дашборд позв
 
 ---
 
-### [Datalens. Food delivery analytics](./Datalens:Superset/Datalens.%20Food%20delivery%20analytics)
+### [Datalens. Food delivery analytics](./Datalens%3ASuperset/Datalens.%20Food%20delivery%20analitycs) 
 
 BI-дашборд для анализа сервиса доставки еды. В проекте визуализированы показатели заказов, выручки, динамики продаж, категорий и пользовательской активности.
 
