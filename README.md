@@ -164,8 +164,7 @@
 
 ---
 
-### [13. Yandex Books data pipeline](./12.%20Yandex%20books%20user%20behavior%20PySpark)
-
+### [13. Yandex Books data pipeline](./13.%20Yandex%20books%20data%20pipeline)
 
 Проект по автоматизации ежедневной обработки пользовательских данных сервиса «Яндекс Книги». Настроен ETL-пайплайн, который проверяет появление входного файла в S3, запускает PySpark-задачу на Yandex DataProc и загружает агрегированные данные в ClickHouse.
 
