@@ -1,4 +1,4 @@
-#Автоматизация витрины данных по поездкам Яндекс Такси
+# Автоматизация витрины данных по поездкам Яндекс Такси
 
 ***СТАТУС:*** **Завершён**
 
@@ -98,4 +98,4 @@ DAG запускается ежедневно в **16:00**.
 
 ## Ключевые слова
 
-Airflow, PySpark, ETL, Data Pipeline, S3, Yandex DataProc, ClickHouse
+Airflow, PySpark, ETL, Data Pipeline, S3, Yandex DataProc, ClickHouse, JDBC, Parquet
